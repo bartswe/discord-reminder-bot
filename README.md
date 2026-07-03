@@ -6,6 +6,7 @@
 
 <p align="center">
   <h2 align="center">Discord Reminder Bot</h2>
+  <h3 align="center">Written mostly in April 2022.</h3>
 </p>
 
 <div markdown="1" align="center">
