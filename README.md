@@ -26,7 +26,6 @@
 * [Commands](#exclamation-commands)
 * [Additional features](#rocket-additional-features)
 * [Room for improvement](#arrow_up-room-for-improvement)
-* [Contact](#telephone_receiver-contact)
 * [Author](#construction_worker-author)
 * [License](#unlock-license)
 
